@@ -24,6 +24,11 @@ ul {
     color: white;
 }
 
+.wrap-right {
+    background: white;
+    height: 1245px;
+}
+
 .photo-out {
     margin: 50px auto;
     width: 120px;
